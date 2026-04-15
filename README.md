@@ -71,12 +71,6 @@ Contents:
  * Definition and construction
  * Demonstration
  * Implementation
-
- User Guide :
- -------------
- * the way to use code:
- * video explanation:
-
  
 Installation: 
 -------------
